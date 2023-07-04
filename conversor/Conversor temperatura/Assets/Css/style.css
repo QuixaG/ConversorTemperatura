@@ -1,0 +1,16 @@
+body{
+ background-color: #222222;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.titulo-app{
+    padding: 30px;
+    color: #ffffff;    
+}
+.text-light{
+    color: #ffffff;
+    padding: 30px;
+}
+
+.botão{
+    background-color: cornflowerblue;
+}
